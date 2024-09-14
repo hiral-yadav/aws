@@ -3,5 +3,5 @@ cloud:
     region:
       static: us-east-1
     credentials:
-      access-key: 
-      secret-key: 
+      access-key: test
+      secret-key: test
