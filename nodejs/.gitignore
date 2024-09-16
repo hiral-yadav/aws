@@ -1,0 +1,9 @@
+# folders
+node_modules/
+cdk.out/
+**.DS_Store
+
+# js files
+**.js
+*.js
+package-lock.json
